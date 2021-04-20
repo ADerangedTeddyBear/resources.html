@@ -1,0 +1,27 @@
+html {
+    font: sans-serif;
+    color:rgb(0, 68, 255);
+}
+
+body {
+    background-color: rgb(190, 255, 255);
+}
+
+#personal_picture {
+    width: 50px;
+    height: 50px;
+}
+
+thead {
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+tbody {
+    background-color: rgb(208, 255, 216);
+    padding: 5px;
+}
+
+td {
+    padding: 5px;
+}
